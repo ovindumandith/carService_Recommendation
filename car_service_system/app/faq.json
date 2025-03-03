@@ -1,0 +1,66 @@
+[
+  {
+    "question": "What services does your company offer?",
+    "answer": "Our company offers a wide range of services including oil changes, tire rotations, brake inspections, engine diagnostics, and more."
+  },
+  {
+    "question": "Do you offer any warranties on your services?",
+    "answer": "Yes, we offer warranties on many of our services. Please contact us for specific warranty information related to the service you are interested in."
+  },
+  {
+    "question": "How can I schedule a service appointment?",
+    "answer": "You can schedule a service appointment by calling our office, visiting our website, or using our mobile app."
+  },
+  {
+    "question": "What are your business hours?",
+    "answer": "Our business hours are Monday to Friday from 8:00 AM to 6:00 PM, and Saturday from 9:00 AM to 3:00 PM. We are closed on Sundays."
+  },
+  {
+    "question": "Do you offer emergency roadside assistance?",
+    "answer": "Yes, we offer emergency roadside assistance. Please call our emergency hotline for immediate help."
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept cash, credit cards, and debit cards. We also offer financing options for larger repairs."
+  },
+  {
+    "question": "How often should I rotate my tires?",
+    "answer": "It is recommended to rotate your tires every 6,000 to 8,000 miles to ensure even wear and extend their lifespan."
+  },
+  {
+    "question": "What should I do if my car won't start?",
+    "answer": "If your car won't start, check the battery, fuel level, and starter. If the issue persists, contact a professional mechanic for assistance."
+  },
+  {
+    "question": "How can I improve my car's fuel efficiency?",
+    "answer": "To improve fuel efficiency, keep your tires properly inflated, perform regular maintenance, avoid aggressive driving, and reduce excess weight in your vehicle."
+  },
+  {
+    "question": "What are the signs that my brakes need to be replaced?",
+    "answer": "Signs that your brakes need to be replaced include squeaking or grinding noises, a spongy brake pedal, and longer stopping distances."
+  },
+  {
+    "question": "How often should I replace my car's air filter?",
+    "answer": "It is recommended to replace your car's air filter every 12,000 to 15,000 miles or as specified in your vehicle's owner's manual."
+  },
+  {
+    "question": "What should I do if my car is overheating?",
+    "answer": "If your car is overheating, pull over safely, turn off the engine, and allow it to cool down. Check the coolant level and look for leaks. If the issue persists, contact a mechanic."
+  },
+  {
+    "question": "How often should I check my car's fluid levels?",
+    "answer": "You should check your car's fluid levels, including oil, coolant, brake fluid, and transmission fluid, at least once a month."
+  },
+  {
+    "question": "What is the difference between synthetic and conventional oil?",
+    "answer": "Synthetic oil is chemically engineered to provide better performance and protection, while conventional oil is refined from crude oil. Synthetic oil typically lasts longer and performs better in extreme temperatures."
+  },
+  {
+    "question": "How can I tell if my car's battery is dying?",
+    "answer": "Signs of a dying car battery include dim headlights, slow engine crank, and the battery warning light on the dashboard. If you experience these symptoms, have your battery tested and replaced if necessary."
+  },
+  {
+    "question": "What should I do if my car's check engine light comes on?",
+    "answer": "If your car's check engine light comes on, check for any obvious issues like a loose gas cap. If the light remains on, have your vehicle diagnosed by a professional mechanic to identify and address the problem."
+  }
+]
