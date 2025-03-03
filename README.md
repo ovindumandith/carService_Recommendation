@@ -73,7 +73,7 @@ This project is licensed under the **MIT License**.
 
 ## 📧 Contact
 For any queries, feel free to reach out:
-- **Email:** your-email@example.com
+- **Email:** ovindumandith@gmail.com
 - **GitHub Issues:** Open a new issue on this repo
 
 ---
